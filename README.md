@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/d-freitas/mk-project)
+
 # MK Project
 This project is an opensource e-commerce with a clean design.
 You can contribute to the project, just send pull requests and I'll analyze it :monocle_face:.
